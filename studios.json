@@ -532,5 +532,509 @@
     "type": "anime",
     "name": "TV Osaka",
     "url": "https://myanimelist.net/anime/producer/100/TV_Osaka"
+  },
+  {
+    "mal_id": 101,
+    "type": "anime",
+    "name": "Studio Hibari",
+    "url": "https://myanimelist.net/anime/producer/101/Studio_Hibari"
+  },
+  {
+    "mal_id": 102,
+    "type": "anime",
+    "name": "Funimation",
+    "url": "https://myanimelist.net/anime/producer/102/Funimation"
+  },
+  {
+    "mal_id": 103,
+    "type": "anime",
+    "name": "Tatsunoko Production",
+    "url": "https://myanimelist.net/anime/producer/103/Tatsunoko_Production"
+  },
+  {
+    "mal_id": 104,
+    "type": "anime",
+    "name": "Lantis",
+    "url": "https://myanimelist.net/anime/producer/104/Lantis"
+  },
+  {
+    "mal_id": 107,
+    "type": "anime",
+    "name": "Plum",
+    "url": "https://myanimelist.net/anime/producer/107/Plum"
+  },
+  {
+    "mal_id": 108,
+    "type": "anime",
+    "name": "Media Factory",
+    "url": "https://myanimelist.net/anime/producer/108/Media_Factory"
+  },
+  {
+    "mal_id": 109,
+    "type": "anime",
+    "name": "Shochiku",
+    "url": "https://myanimelist.net/anime/producer/109/Shochiku"
+  },
+  {
+    "mal_id": 110,
+    "type": "anime",
+    "name": "Triangle Staff",
+    "url": "https://myanimelist.net/anime/producer/110/Triangle_Staff"
+  },
+  {
+    "mal_id": 111,
+    "type": "anime",
+    "name": "NHK",
+    "url": "https://myanimelist.net/anime/producer/111/NHK"
+  },
+  {
+    "mal_id": 112,
+    "type": "anime",
+    "name": "Brain's Base",
+    "url": "https://myanimelist.net/anime/producer/112/Brains_Base"
+  },
+  {
+    "mal_id": 113,
+    "type": "anime",
+    "name": "Kadokawa Shoten",
+    "url": "https://myanimelist.net/anime/producer/113/Kadokawa_Shoten"
+  },
+  {
+    "mal_id": 114,
+    "type": "anime",
+    "name": "Studio Matrix",
+    "url": "https://myanimelist.net/anime/producer/114/Studio_Matrix"
+  },
+  {
+    "mal_id": 116,
+    "type": "anime",
+    "name": "Broccoli",
+    "url": "https://myanimelist.net/anime/producer/116/Broccoli"
+  },
+  {
+    "mal_id": 117,
+    "type": "anime",
+    "name": "Studio Izena",
+    "url": "https://myanimelist.net/anime/producer/117/Studio_Izena"
+  },
+  {
+    "mal_id": 118,
+    "type": "anime",
+    "name": "SynergySP",
+    "url": "https://myanimelist.net/anime/producer/118/SynergySP"
+  },
+  {
+    "mal_id": 119,
+    "type": "anime",
+    "name": "VIZ Media",
+    "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+  },
+  {
+    "mal_id": 120,
+    "type": "anime",
+    "name": "TNK",
+    "url": "https://myanimelist.net/anime/producer/120/TNK"
+  },
+  {
+    "mal_id": 121,
+    "type": "anime",
+    "name": "Active",
+    "url": "https://myanimelist.net/anime/producer/121/Active"
+  },
+  {
+    "mal_id": 122,
+    "type": "anime",
+    "name": "Tokyo Kids",
+    "url": "https://myanimelist.net/anime/producer/122/Tokyo_Kids"
+  },
+  {
+    "mal_id": 123,
+    "type": "anime",
+    "name": "Victor Entertainment",
+    "url": "https://myanimelist.net/anime/producer/123/Victor_Entertainment"
+  },
+  {
+    "mal_id": 124,
+    "type": "anime",
+    "name": "Animac",
+    "url": "https://myanimelist.net/anime/producer/124/Animac"
+  },
+  {
+    "mal_id": 126,
+    "type": "anime",
+    "name": "Studio Comet",
+    "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+  },
+  {
+    "mal_id": 127,
+    "type": "anime",
+    "name": "Yomiko Advertising",
+    "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+  },
+  {
+    "mal_id": 129,
+    "type": "anime",
+    "name": "Silky’s",
+    "url": "https://myanimelist.net/anime/producer/129/Silky%E2%80%99s"
+  },
+  {
+    "mal_id": 130,
+    "type": "anime",
+    "name": "CherryLips",
+    "url": "https://myanimelist.net/anime/producer/130/CherryLips"
+  },
+  {
+    "mal_id": 131,
+    "type": "anime",
+    "name": "G&G Entertainment",
+    "url": "https://myanimelist.net/anime/producer/131/G_G_Entertainment"
+  },
+  {
+    "mal_id": 132,
+    "type": "anime",
+    "name": "P.A. Works",
+    "url": "https://myanimelist.net/anime/producer/132/PA_Works"
+  },
+  {
+    "mal_id": 133,
+    "type": "anime",
+    "name": "Shinyusha",
+    "url": "https://myanimelist.net/anime/producer/133/Shinyusha"
+  },
+  {
+    "mal_id": 134,
+    "type": "anime",
+    "name": "HoriPro",
+    "url": "https://myanimelist.net/anime/producer/134/HoriPro"
+  },
+  {
+    "mal_id": 135,
+    "type": "anime",
+    "name": "MediaNet",
+    "url": "https://myanimelist.net/anime/producer/135/MediaNet"
+  },
+  {
+    "mal_id": 136,
+    "type": "anime",
+    "name": "Vega Entertainment",
+    "url": "https://myanimelist.net/anime/producer/136/Vega_Entertainment"
+  },
+  {
+    "mal_id": 137,
+    "type": "anime",
+    "name": "PPM",
+    "url": "https://myanimelist.net/anime/producer/137/PPM"
+  },
+  {
+    "mal_id": 138,
+    "type": "anime",
+    "name": "Himajin Planning",
+    "url": "https://myanimelist.net/anime/producer/138/Himajin_Planning"
+  },
+  {
+    "mal_id": 139,
+    "type": "anime",
+    "name": "Nihon Ad Systems",
+    "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+  },
+  {
+    "mal_id": 140,
+    "type": "anime",
+    "name": "Animax",
+    "url": "https://myanimelist.net/anime/producer/140/Animax"
+  },
+  {
+    "mal_id": 141,
+    "type": "anime",
+    "name": "Toei Video",
+    "url": "https://myanimelist.net/anime/producer/141/Toei_Video"
+  },
+  {
+    "mal_id": 142,
+    "type": "anime",
+    "name": "Asatsu DK",
+    "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+  },
+  {
+    "mal_id": 143,
+    "type": "anime",
+    "name": "Mainichi Broadcasting System",
+    "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+  },
+  {
+    "mal_id": 144,
+    "type": "anime",
+    "name": "Pony Canyon",
+    "url": "https://myanimelist.net/anime/producer/144/Pony_Canyon"
+  },
+  {
+    "mal_id": 145,
+    "type": "anime",
+    "name": "TBS",
+    "url": "https://myanimelist.net/anime/producer/145/TBS"
+  },
+  {
+    "mal_id": 146,
+    "type": "anime",
+    "name": "CBC",
+    "url": "https://myanimelist.net/anime/producer/146/CBC"
+  },
+  {
+    "mal_id": 147,
+    "type": "anime",
+    "name": "SKY Perfect Well Think",
+    "url": "https://myanimelist.net/anime/producer/147/SKY_Perfect_Well_Think"
+  },
+  {
+    "mal_id": 148,
+    "type": "anime",
+    "name": "Hakusensha",
+    "url": "https://myanimelist.net/anime/producer/148/Hakusensha"
+  },
+  {
+    "mal_id": 149,
+    "type": "anime",
+    "name": "SME Visual Works",
+    "url": "https://myanimelist.net/anime/producer/149/SME_Visual_Works"
+  },
+  {
+    "mal_id": 150,
+    "type": "anime",
+    "name": "Sanrio",
+    "url": "https://myanimelist.net/anime/producer/150/Sanrio"
+  },
+  {
+    "mal_id": 152,
+    "type": "anime",
+    "name": "Green Bunny",
+    "url": "https://myanimelist.net/anime/producer/152/Green_Bunny"
+  },
+  {
+    "mal_id": 153,
+    "type": "anime",
+    "name": "SoftX",
+    "url": "https://myanimelist.net/anime/producer/153/SoftX"
+  },
+  {
+    "mal_id": 154,
+    "type": "anime",
+    "name": "E&G Films",
+    "url": "https://myanimelist.net/anime/producer/154/E_G_Films"
+  },
+  {
+    "mal_id": 155,
+    "type": "anime",
+    "name": "animate Film",
+    "url": "https://myanimelist.net/anime/producer/155/animate_Film"
+  },
+  {
+    "mal_id": 156,
+    "type": "anime",
+    "name": "Polygram Japan",
+    "url": "https://myanimelist.net/anime/producer/156/Polygram_Japan"
+  },
+  {
+    "mal_id": 157,
+    "type": "anime",
+    "name": "BMG Japan",
+    "url": "https://myanimelist.net/anime/producer/157/BMG_Japan"
+  },
+  {
+    "mal_id": 158,
+    "type": "anime",
+    "name": "Kids Station",
+    "url": "https://myanimelist.net/anime/producer/158/Kids_Station"
+  },
+  {
+    "mal_id": 159,
+    "type": "anime",
+    "name": "Kodansha",
+    "url": "https://myanimelist.net/anime/producer/159/Kodansha"
+  },
+  {
+    "mal_id": 160,
+    "type": "anime",
+    "name": "Rondo Robe",
+    "url": "https://myanimelist.net/anime/producer/160/Rondo_Robe"
+  },
+  {
+    "mal_id": 161,
+    "type": "anime",
+    "name": "Sogo Vision",
+    "url": "https://myanimelist.net/anime/producer/161/Sogo_Vision"
+  },
+  {
+    "mal_id": 163,
+    "type": "anime",
+    "name": "Asread",
+    "url": "https://myanimelist.net/anime/producer/163/Asread"
+  },
+  {
+    "mal_id": 164,
+    "type": "anime",
+    "name": "d-rights",
+    "url": "https://myanimelist.net/anime/producer/164/d-rights"
+  },
+  {
+    "mal_id": 165,
+    "type": "anime",
+    "name": "Marubeni",
+    "url": "https://myanimelist.net/anime/producer/165/Marubeni"
+  },
+  {
+    "mal_id": 166,
+    "type": "anime",
+    "name": "Movic",
+    "url": "https://myanimelist.net/anime/producer/166/Movic"
+  },
+  {
+    "mal_id": 167,
+    "type": "anime",
+    "name": "Sega",
+    "url": "https://myanimelist.net/anime/producer/167/Sega"
+  },
+  {
+    "mal_id": 168,
+    "type": "anime",
+    "name": "Shelty",
+    "url": "https://myanimelist.net/anime/producer/168/Shelty"
+  },
+  {
+    "mal_id": 169,
+    "type": "anime",
+    "name": "Fuji TV",
+    "url": "https://myanimelist.net/anime/producer/169/Fuji_TV"
+  },
+  {
+    "mal_id": 170,
+    "type": "anime",
+    "name": "Imagica",
+    "url": "https://myanimelist.net/anime/producer/170/Imagica"
+  },
+  {
+    "mal_id": 171,
+    "type": "anime",
+    "name": "A-Line",
+    "url": "https://myanimelist.net/anime/producer/171/A-Line"
+  },
+  {
+    "mal_id": 172,
+    "type": "anime",
+    "name": "Alchemist",
+    "url": "https://myanimelist.net/anime/producer/172/Alchemist"
+  },
+  {
+    "mal_id": 175,
+    "type": "anime",
+    "name": "Planet",
+    "url": "https://myanimelist.net/anime/producer/175/Planet"
+  },
+  {
+    "mal_id": 176,
+    "type": "anime",
+    "name": "Ginga Ya",
+    "url": "https://myanimelist.net/anime/producer/176/Ginga_Ya"
+  },
+  {
+    "mal_id": 177,
+    "type": "anime",
+    "name": "Studio Kyuuma",
+    "url": "https://myanimelist.net/anime/producer/177/Studio_Kyuuma"
+  },
+  {
+    "mal_id": 178,
+    "type": "anime",
+    "name": "Trilogy Future Studio",
+    "url": "https://myanimelist.net/anime/producer/178/Trilogy_Future_Studio"
+  },
+  {
+    "mal_id": 179,
+    "type": "anime",
+    "name": "A.C.G.T.",
+    "url": "https://myanimelist.net/anime/producer/179/ACGT"
+  },
+  {
+    "mal_id": 182,
+    "type": "anime",
+    "name": "Age",
+    "url": "https://myanimelist.net/anime/producer/182/Age"
+  },
+  {
+    "mal_id": 183,
+    "type": "anime",
+    "name": "Agent 21",
+    "url": "https://myanimelist.net/anime/producer/183/Agent_21"
+  },
+  {
+    "mal_id": 184,
+    "type": "anime",
+    "name": "Ai ga areba Daijobu",
+    "url": "https://myanimelist.net/anime/producer/184/Ai_ga_areba_Daijobu"
+  },
+  {
+    "mal_id": 189,
+    "type": "anime",
+    "name": "GEN Productions",
+    "url": "https://myanimelist.net/anime/producer/189/GEN_Productions"
+  },
+  {
+    "mal_id": 190,
+    "type": "anime",
+    "name": "RCC Chugoku Broadcasting",
+    "url": "https://myanimelist.net/anime/producer/190/RCC_Chugoku_Broadcasting"
+  },
+  {
+    "mal_id": 191,
+    "type": "anime",
+    "name": "Eiken",
+    "url": "https://myanimelist.net/anime/producer/191/Eiken"
+  },
+  {
+    "mal_id": 192,
+    "type": "anime",
+    "name": "Shinkuukan",
+    "url": "https://myanimelist.net/anime/producer/192/Shinkuukan"
+  },
+  {
+    "mal_id": 193,
+    "type": "anime",
+    "name": "Idea Factory",
+    "url": "https://myanimelist.net/anime/producer/193/Idea_Factory"
+  },
+  {
+    "mal_id": 194,
+    "type": "anime",
+    "name": "ANIK",
+    "url": "https://myanimelist.net/anime/producer/194/ANIK"
+  },
+  {
+    "mal_id": 195,
+    "type": "anime",
+    "name": "Pixy",
+    "url": "https://myanimelist.net/anime/producer/195/Pixy"
+  },
+  {
+    "mal_id": 196,
+    "type": "anime",
+    "name": "Production Reed",
+    "url": "https://myanimelist.net/anime/producer/196/Production_Reed"
+  },
+  {
+    "mal_id": 198,
+    "type": "anime",
+    "name": "Gakken",
+    "url": "https://myanimelist.net/anime/producer/198/Gakken"
+  },
+  {
+    "mal_id": 199,
+    "type": "anime",
+    "name": "Studio Nue",
+    "url": "https://myanimelist.net/anime/producer/199/Studio_Nue"
+  },
+  {
+    "mal_id": 200,
+    "type": "anime",
+    "name": "Tezuka Productions",
+    "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
   }
 ]
