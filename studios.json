@@ -1036,5 +1036,497 @@
     "type": "anime",
     "name": "Tezuka Productions",
     "url": "https://myanimelist.net/anime/producer/200/Tezuka_Productions"
+  },
+   {
+    "mal_id": 203,
+    "type": "anime",
+    "name": "Visual Art's",
+    "url": "https://myanimelist.net/anime/producer/203/Visual_Arts"
+  },
+  {
+    "mal_id": 204,
+    "type": "anime",
+    "name": "Pioneer LDC",
+    "url": "https://myanimelist.net/anime/producer/204/Pioneer_LDC"
+  },
+  {
+    "mal_id": 206,
+    "type": "anime",
+    "name": "Digital Works",
+    "url": "https://myanimelist.net/anime/producer/206/Digital_Works"
+  },
+  {
+    "mal_id": 207,
+    "type": "anime",
+    "name": "Magic Bus",
+    "url": "https://myanimelist.net/anime/producer/207/Magic_Bus"
+  },
+  {
+    "mal_id": 208,
+    "type": "anime",
+    "name": "Three Fat Samurai",
+    "url": "https://myanimelist.net/anime/producer/208/Three_Fat_Samurai"
+  },
+  {
+    "mal_id": 209,
+    "type": "anime",
+    "name": "Sol Blade",
+    "url": "https://myanimelist.net/anime/producer/209/Sol_Blade"
+  },
+  {
+    "mal_id": 210,
+    "type": "anime",
+    "name": "Studio Tulip",
+    "url": "https://myanimelist.net/anime/producer/210/Studio_Tulip"
+  },
+  {
+    "mal_id": 211,
+    "type": "anime",
+    "name": "Rakuonsha",
+    "url": "https://myanimelist.net/anime/producer/211/Rakuonsha"
+  },
+  {
+    "mal_id": 212,
+    "type": "anime",
+    "name": "Venus Vangard",
+    "url": "https://myanimelist.net/anime/producer/212/Venus_Vangard"
+  },
+  {
+    "mal_id": 213,
+    "type": "anime",
+    "name": "Half H.P Studio",
+    "url": "https://myanimelist.net/anime/producer/213/Half_HP_Studio"
+  },
+  {
+    "mal_id": 214,
+    "type": "anime",
+    "name": "BS-i",
+    "url": "https://myanimelist.net/anime/producer/214/BS-i"
+  },
+  {
+    "mal_id": 215,
+    "type": "anime",
+    "name": "Nelvana",
+    "url": "https://myanimelist.net/anime/producer/215/Nelvana"
+  },
+  {
+    "mal_id": 216,
+    "type": "anime",
+    "name": "Studio Tron",
+    "url": "https://myanimelist.net/anime/producer/216/Studio_Tron"
+  },
+  {
+    "mal_id": 217,
+    "type": "anime",
+    "name": "Nozomi Entertainment",
+    "url": "https://myanimelist.net/anime/producer/217/Nozomi_Entertainment"
+  },
+  {
+    "mal_id": 218,
+    "type": "anime",
+    "name": "Zexcs",
+    "url": "https://myanimelist.net/anime/producer/218/Zexcs"
+  },
+  {
+    "mal_id": 220,
+    "type": "anime",
+    "name": "Youmex",
+    "url": "https://myanimelist.net/anime/producer/220/Youmex"
+  },
+  {
+    "mal_id": 222,
+    "type": "anime",
+    "name": "Jade Animation",
+    "url": "https://myanimelist.net/anime/producer/222/Jade_Animation"
+  },
+  {
+    "mal_id": 224,
+    "type": "anime",
+    "name": "Toshiba EMI",
+    "url": "https://myanimelist.net/anime/producer/224/Toshiba_EMI"
+  },
+  {
+    "mal_id": 226,
+    "type": "anime",
+    "name": "Panmedia",
+    "url": "https://myanimelist.net/anime/producer/226/Panmedia"
+  },
+  {
+    "mal_id": 228,
+    "type": "anime",
+    "name": "Daewon Media",
+    "url": "https://myanimelist.net/anime/producer/228/Daewon_Media"
+  },
+  {
+    "mal_id": 229,
+    "type": "anime",
+    "name": "The Answer Studio",
+    "url": "https://myanimelist.net/anime/producer/229/The_Answer_Studio"
+  },
+  {
+    "mal_id": 230,
+    "type": "anime",
+    "name": "Bandai",
+    "url": "https://myanimelist.net/anime/producer/230/Bandai"
+  },
+  {
+    "mal_id": 231,
+    "type": "anime",
+    "name": "CyberConnect2",
+    "url": "https://myanimelist.net/anime/producer/231/CyberConnect2"
+  },
+  {
+    "mal_id": 233,
+    "type": "anime",
+    "name": "Bandai Entertainment",
+    "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+  },
+  {
+    "mal_id": 234,
+    "type": "anime",
+    "name": "Oh! Production",
+    "url": "https://myanimelist.net/anime/producer/234/Oh_Production"
+  },
+  {
+    "mal_id": 235,
+    "type": "anime",
+    "name": "Shirogumi",
+    "url": "https://myanimelist.net/anime/producer/235/Shirogumi"
+  },
+  {
+    "mal_id": 236,
+    "type": "anime",
+    "name": "YTV",
+    "url": "https://myanimelist.net/anime/producer/236/YTV"
+  },
+  {
+    "mal_id": 238,
+    "type": "anime",
+    "name": "AT-X",
+    "url": "https://myanimelist.net/anime/producer/238/AT-X"
+  },
+  {
+    "mal_id": 239,
+    "type": "anime",
+    "name": "Y.O.U.C",
+    "url": "https://myanimelist.net/anime/producer/239/YOUC"
+  },
+  {
+    "mal_id": 240,
+    "type": "anime",
+    "name": "Capcom",
+    "url": "https://myanimelist.net/anime/producer/240/Capcom"
+  },
+  {
+    "mal_id": 241,
+    "type": "anime",
+    "name": "Koei",
+    "url": "https://myanimelist.net/anime/producer/241/Koei"
+  },
+  {
+    "mal_id": 242,
+    "type": "anime",
+    "name": "Ashi Production",
+    "url": "https://myanimelist.net/anime/producer/242/Ashi_Production"
+  },
+  {
+    "mal_id": 244,
+    "type": "anime",
+    "name": "D3",
+    "url": "https://myanimelist.net/anime/producer/244/D3"
+  },
+  {
+    "mal_id": 245,
+    "type": "anime",
+    "name": "Toho",
+    "url": "https://myanimelist.net/anime/producer/245/Toho"
+  },
+  {
+    "mal_id": 246,
+    "type": "anime",
+    "name": "Visual 80",
+    "url": "https://myanimelist.net/anime/producer/246/Visual_80"
+  },
+  {
+    "mal_id": 247,
+    "type": "anime",
+    "name": "Shin-Ei Animation",
+    "url": "https://myanimelist.net/anime/producer/247/Shin-Ei_Animation"
+  },
+  {
+    "mal_id": 248,
+    "type": "anime",
+    "name": "Tin House",
+    "url": "https://myanimelist.net/anime/producer/248/Tin_House"
+  },
+  {
+    "mal_id": 249,
+    "type": "anime",
+    "name": "Robot Communications",
+    "url": "https://myanimelist.net/anime/producer/249/Robot_Communications"
+  },
+  {
+    "mal_id": 250,
+    "type": "anime",
+    "name": "Media Blasters",
+    "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+  },
+  {
+    "mal_id": 252,
+    "type": "anime",
+    "name": "4Kids Entertainment",
+    "url": "https://myanimelist.net/anime/producer/252/4Kids_Entertainment"
+  },
+  {
+    "mal_id": 253,
+    "type": "anime",
+    "name": "Rikuentai",
+    "url": "https://myanimelist.net/anime/producer/253/Rikuentai"
+  },
+  {
+    "mal_id": 254,
+    "type": "anime",
+    "name": "Soft Garage",
+    "url": "https://myanimelist.net/anime/producer/254/Soft_Garage"
+  },
+  {
+    "mal_id": 255,
+    "type": "anime",
+    "name": "Imagi",
+    "url": "https://myanimelist.net/anime/producer/255/Imagi"
+  },
+  {
+    "mal_id": 256,
+    "type": "anime",
+    "name": "Studio Kikan",
+    "url": "https://myanimelist.net/anime/producer/256/Studio_Kikan"
+  },
+  {
+    "mal_id": 257,
+    "type": "anime",
+    "name": "Jam",
+    "url": "https://myanimelist.net/anime/producer/257/Jam"
+  },
+  {
+    "mal_id": 258,
+    "type": "anime",
+    "name": "Echo",
+    "url": "https://myanimelist.net/anime/producer/258/Echo"
+  },
+  {
+    "mal_id": 259,
+    "type": "anime",
+    "name": "Kaeruotoko Shokai",
+    "url": "https://myanimelist.net/anime/producer/259/Kaeruotoko_Shokai"
+  },
+  {
+    "mal_id": 261,
+    "type": "anime",
+    "name": "San-X",
+    "url": "https://myanimelist.net/anime/producer/261/San-X"
+  },
+  {
+    "mal_id": 262,
+    "type": "anime",
+    "name": "Kadokawa Pictures USA",
+    "url": "https://myanimelist.net/anime/producer/262/Kadokawa_Pictures_USA"
+  },
+  {
+    "mal_id": 265,
+    "type": "anime",
+    "name": "Valkyria",
+    "url": "https://myanimelist.net/anime/producer/265/Valkyria"
+  },
+  {
+    "mal_id": 266,
+    "type": "anime",
+    "name": "Natural High",
+    "url": "https://myanimelist.net/anime/producer/266/Natural_High"
+  },
+  {
+    "mal_id": 267,
+    "type": "anime",
+    "name": "Five Ways",
+    "url": "https://myanimelist.net/anime/producer/267/Five_Ways"
+  },
+  {
+    "mal_id": 268,
+    "type": "anime",
+    "name": "Hot Bear",
+    "url": "https://myanimelist.net/anime/producer/268/Hot_Bear"
+  },
+  {
+    "mal_id": 269,
+    "type": "anime",
+    "name": "DiC Entertainment",
+    "url": "https://myanimelist.net/anime/producer/269/DiC_Entertainment"
+  },
+  {
+    "mal_id": 270,
+    "type": "anime",
+    "name": "NuTech Digital",
+    "url": "https://myanimelist.net/anime/producer/270/NuTech_Digital"
+  },
+  {
+    "mal_id": 271,
+    "type": "anime",
+    "name": "Barnum Studio",
+    "url": "https://myanimelist.net/anime/producer/271/Barnum_Studio"
+  },
+  {
+    "mal_id": 273,
+    "type": "anime",
+    "name": "Think Corporation",
+    "url": "https://myanimelist.net/anime/producer/273/Think_Corporation"
+  },
+  {
+    "mal_id": 274,
+    "type": "anime",
+    "name": "Suzuki Mirano",
+    "url": "https://myanimelist.net/anime/producer/274/Suzuki_Mirano"
+  },
+  {
+    "mal_id": 275,
+    "type": "anime",
+    "name": "Kojiro Shishido Animation Works",
+    "url": "https://myanimelist.net/anime/producer/275/Kojiro_Shishido_Animation_Works"
+  },
+  {
+    "mal_id": 276,
+    "type": "anime",
+    "name": "DLE",
+    "url": "https://myanimelist.net/anime/producer/276/DLE"
+  },
+  {
+    "mal_id": 277,
+    "type": "anime",
+    "name": "Anime Midstream",
+    "url": "https://myanimelist.net/anime/producer/277/Anime_Midstream"
+  },
+  {
+    "mal_id": 278,
+    "type": "anime",
+    "name": "Daiei",
+    "url": "https://myanimelist.net/anime/producer/278/Daiei"
+  },
+  {
+    "mal_id": 279,
+    "type": "anime",
+    "name": "Skouras",
+    "url": "https://myanimelist.net/anime/producer/279/Skouras"
+  },
+  {
+    "mal_id": 280,
+    "type": "anime",
+    "name": "Studio Junio",
+    "url": "https://myanimelist.net/anime/producer/280/Studio_Junio"
+  },
+  {
+    "mal_id": 281,
+    "type": "anime",
+    "name": "Kokusai Eigasha",
+    "url": "https://myanimelist.net/anime/producer/281/Kokusai_Eigasha"
+  },
+  {
+    "mal_id": 282,
+    "type": "anime",
+    "name": "Gentosha Comics",
+    "url": "https://myanimelist.net/anime/producer/282/Gentosha_Comics"
+  },
+  {
+    "mal_id": 283,
+    "type": "anime",
+    "name": "KENMedia",
+    "url": "https://myanimelist.net/anime/producer/283/KENMedia"
+  },
+  {
+    "mal_id": 284,
+    "type": "anime",
+    "name": "Central Park Media",
+    "url": "https://myanimelist.net/anime/producer/284/Central_Park_Media"
+  },
+  {
+    "mal_id": 285,
+    "type": "anime",
+    "name": "Four Some",
+    "url": "https://myanimelist.net/anime/producer/285/Four_Some"
+  },
+  {
+    "mal_id": 287,
+    "type": "anime",
+    "name": "David Production",
+    "url": "https://myanimelist.net/anime/producer/287/David_Production"
+  },
+  {
+    "mal_id": 288,
+    "type": "anime",
+    "name": "Kaname Productions",
+    "url": "https://myanimelist.net/anime/producer/288/Kaname_Productions"
+  },
+  {
+    "mal_id": 289,
+    "type": "anime",
+    "name": "ACiD FiLM",
+    "url": "https://myanimelist.net/anime/producer/289/ACiD_FiLM"
+  },
+  {
+    "mal_id": 290,
+    "type": "anime",
+    "name": "Kinema Citrus",
+    "url": "https://myanimelist.net/anime/producer/290/Kinema_Citrus"
+  },
+  {
+    "mal_id": 291,
+    "type": "anime",
+    "name": "CoMix Wave Films",
+    "url": "https://myanimelist.net/anime/producer/291/CoMix_Wave_Films"
+  },
+  {
+    "mal_id": 292,
+    "type": "anime",
+    "name": "AIC PLUS+",
+    "url": "https://myanimelist.net/anime/producer/292/AIC_PLUS_"
+  },
+  {
+    "mal_id": 293,
+    "type": "anime",
+    "name": "Picograph",
+    "url": "https://myanimelist.net/anime/producer/293/Picograph"
+  },
+  {
+    "mal_id": 294,
+    "type": "anime",
+    "name": "Discovery",
+    "url": "https://myanimelist.net/anime/producer/294/Discovery"
+  },
+  {
+    "mal_id": 296,
+    "type": "anime",
+    "name": "Critical Mass Video",
+    "url": "https://myanimelist.net/anime/producer/296/Critical_Mass_Video"
+  },
+  {
+    "mal_id": 297,
+    "type": "anime",
+    "name": "Armor",
+    "url": "https://myanimelist.net/anime/producer/297/Armor"
+  },
+  {
+    "mal_id": 298,
+    "type": "anime",
+    "name": "Anima",
+    "url": "https://myanimelist.net/anime/producer/298/Anima"
+  },
+  {
+    "mal_id": 299,
+    "type": "anime",
+    "name": "Studio Pastoral",
+    "url": "https://myanimelist.net/anime/producer/299/Studio_Pastoral"
+  },
+  {
+    "mal_id": 300,
+    "type": "anime",
+    "name": "SILVER LINK.",
+    "url": "https://myanimelist.net/anime/producer/300/SILVER_LINK"
   }
 ]
